@@ -1,0 +1,51 @@
+/*Oreyomi oluwatoyosi 8864154 */ 
+body {
+    font: normal normal normal 12px/1.5;
+    background-color: hsla(268, 68%, 70%, 68%);
+    width: 100vw;
+    height: 100vh;
+}
+h2 {
+    color: #f02;
+    font-size: 2em;
+}
+
+header{
+    background-color: hsl(200, 78%, 34%);
+}
+
+main {
+    float:left;
+    width:65vw;
+    height: 60vh;
+    background-color: hsl(109, 84%, 47%);
+
+}
+
+aside {
+    float:right;
+    width:25vw;
+    background-color: hsl(343, 85%, 26%);
+}
+footer{
+    clear:both;
+    background-color: hsl(243, 73%, 62%);
+}
+.structural {
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+#para1{
+    color:rgb(11, 74, 11);
+}
+#para2 {
+    color: rgb(18, 95, 70);
+}
+a:hover{
+    color: #f02;
+}
+footer p{
+    font-size: 75em;
+}
